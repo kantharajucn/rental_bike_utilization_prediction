@@ -20,6 +20,7 @@ utilization of the rental bikes between 2011 and 2012 in Capital bike share syst
 7. scikit-learn
 
 
- 
+### Note
+There is a problem in opening the notebook on Github, please download and open.
  
  
